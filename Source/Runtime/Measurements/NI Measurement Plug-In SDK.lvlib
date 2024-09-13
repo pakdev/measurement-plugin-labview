@@ -8,6 +8,13 @@
 		<Item Name="MeasurementServerTests.lvlib:Measurement Plugin Service Tests.lvlib" Type="Friended Library" URL="../../../Tests/Tests.Runtime/Measurement Server/Measurement Plugin Service/Measurement Plugin Service Tests.lvlib"/>
 	</Item>
 	<Item Name="Build Assets" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="VI Info" Type="Folder">
+			<Item Name="VI Info.lvlib" Type="Library" URL="../../../../../../Users/peter/OneDrive - Emerson/Desktop/VI Info/VI Info.lvlib"/>
+			<Item Name="VI Info.aliases" Type="Document" URL="../../../../../../Users/peter/OneDrive - Emerson/Desktop/VI Info/VI Info.aliases"/>
+			<Item Name="VI Info.lvlps" Type="Document" URL="../../../../../../Users/peter/OneDrive - Emerson/Desktop/VI Info/VI Info.lvlps"/>
+			<Item Name="VI Info.lvproj" Type="Document" URL="../../../../../../Users/peter/OneDrive - Emerson/Desktop/VI Info/VI Info.lvproj"/>
+		</Item>
 		<Item Name="Post-Build Action.vi" Type="VI" URL="../Build Assets/Post-Build Action.vi"/>
 		<Item Name="User Interface Type.ctl" Type="VI" URL="../Build Assets/User Interface Type.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
