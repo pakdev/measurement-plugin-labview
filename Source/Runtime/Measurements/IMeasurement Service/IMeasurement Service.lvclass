@@ -3,7 +3,6 @@
 	<Property Name="NI.Lib.ContainingLib" Type="Str">NI Measurement Plug-In SDK.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../NI Measurement Plug-In SDK.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*)!!!*Q(C=\&gt;5R;BN"&amp;-&lt;RT];#N!+$7[-&lt;//]%"D8"N8S%&gt;Q7FN)M&amp;8?&amp;&gt;185[6?H@&amp;81&amp;87(^H^EH%9C*$)Z*#M^K:/G&lt;H4=`\1ZLK&lt;=PUJ8'=WXWR`;W]8%W4O`N;Y_/B5`DU_M9D&lt;`0([?T:P5;8[U`6;\M^@8(%_4N`P?-HWH[&lt;*`NX\;HMZPUQ`@MB&gt;K$C*\UI$P&gt;V*9;ETT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)_U%O=J',(&amp;+S?,*15D1JE*Q-2=F&lt;YEE]C3@R]&amp;7**`%EHM34?$B&amp;C3@R**\%EXC9JM34?"*0YEE]F/K3\!=ZHM2$?17?Q".Y!E`A95E&amp;HA!1,"95$IL!5$!9@!A]A3@Q]&amp;'"*`!%HM!4?"B7Y!E]A3@Q""[G^+M38&gt;-/=DS5E?.R0)\(]4A?3MPR/"\(YXA=$]P*]4A?"_%M["3()'?3=Y,TR@%Y(P\)]4A?R_.Y(!^$`1ZZPT*.UQZS0)&lt;(]"A?QW.Y+#($9XA-D_%R0*36Y4%]BM@Q'"[7EO%R0)&lt;(A"C,MLS-9M:%YS1D-$S]_G[R@J?C3[Q@5GV?V;:5&lt;4&lt;6*F*N$N6.6^V-V5V388T6266&gt;,.6&amp;50UY&amp;6K&amp;53WCGNR/V)(X08V(X^)X^$6^26`3&amp;`2ZG`K84TQ=$NLP^^LN&gt;NJON^JM.FKPVVKN6FIOFVIM&amp;JL0Z[@(Q#X([9%Q0:??_.T[=(0X=`DR^7*Y`09]8(_`(WY?HI^DL8`1`^,`Y.GI3`V;FWPU!FK&lt;9:Q!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
@@ -21,7 +20,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1352671760</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Destroy.vi" Type="VI" URL="../Destroy.vi">
@@ -49,7 +48,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1352671760</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Run Measure Logic and Get Results.vi" Type="VI" URL="../Run Measure Logic and Get Results.vi">
@@ -59,7 +58,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1084236304</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Service Stop Handler.vi" Type="VI" URL="../Service Stop Handler.vi">
@@ -87,7 +86,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1352671760</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Update Results.vi" Type="VI" URL="../Update Results.vi">
